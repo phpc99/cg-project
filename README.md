@@ -11,6 +11,8 @@
 - Organized the rendering pipeline with modular scene management, separating shaders, models, and input logic;
 - Focused on performance optimization and smooth frame updates for an engaging real-time experience.
 
+# Screenshots
+
 # Authors
 - Lara Cunha 202108876
 - Pedro Camargo 202102365
