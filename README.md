@@ -11,7 +11,9 @@
 - Organized the rendering pipeline with modular scene management, separating shaders, models, and input logic;
 - Focused on performance optimization and smooth frame updates for an engaging real-time experience.
 
-# Screenshots
+# Video
+
+https://github.com/phpc99/cg-project/blob/main/project-t08g04.mp4
 
 # Authors
 - Lara Cunha 202108876
